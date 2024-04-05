@@ -1,4 +1,4 @@
-Okolo Tochukwu Moses [Github]() | [Live Page]()
+Okolo Tochukwu Moses [Github]() | [Live Page](https://okosisione.github.io/cc-javascript/)
 Joseph Daniel [Github]() | [Live Page]()
 Muhammed Fatima [Github]() | [Live Page]()
 Asemakha Mande [Github]() | [Live Page]()
