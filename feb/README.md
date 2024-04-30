@@ -1,6 +1,6 @@
 ## HTML/CSS
 * Arinze Sam [Github](https://github.com/Samuel-code00) | [Live Page]https://samuel-code00.github.io/)
-* Khairah Afolabi [Github](https://github.com/khaerah) | [Live Page](https://khaerah.github.io/desert-island/)
+* Khairah Afolabi [Github](https://github.com/khaerah) | [Live Page]https://khaerah.github.io/desert-island/)
 
 
 ## Javascript
