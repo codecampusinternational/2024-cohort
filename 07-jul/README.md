@@ -19,6 +19,6 @@ Alex Williams [Github](https://github.com/Williams8146/Wise-currency-converter) 
 
 ## React.js
 
-* Gabriel Miracle [Github]() | [Project
+* Gabriel Miracle [Github](https://github.com/Miracle1048/reactjs-project) | [Project 1](https://finance-website-template.vercel.app/) || [Github](https://github.com/Miracle1048/Custom-Search-JSON-API) | [Project 2](https://custom-search-json-api-git-main-gabriel-miracles-projects.vercel.app/)
 
 ## Python/Django
