@@ -14,10 +14,11 @@
 
 ## JavaScript
 
-Aliyyat Lawal [Github](https://github.com/liyalawal/project) | [Portfolio](https://liyalawal.github.io/project/)
+Aliyyat Lawal [Github](https://github.com/liyalawal/project) | [Project](https://liyalawal.github.io/project/)
+Alex Williams [Github](https://github.com/Williams8146/Wise-currency-converter) | [Project](https://williams8146.github.io/Wise-currency-converter/)
 
 ## React.js
 
-* Gabriel Miracle [Github]()
+* Gabriel Miracle [Github]() | [Project
 
 ## Python/Django
