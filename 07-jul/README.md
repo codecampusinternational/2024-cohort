@@ -14,8 +14,8 @@
 
 ## JavaScript
 
-Aliyyat Lawal [Github](https://github.com/liyalawal/project) | [Project](https://liyalawal.github.io/project/)
-Alex Williams [Github](https://github.com/Williams8146/Wise-currency-converter) | [Project](https://williams8146.github.io/Wise-currency-converter/)
+* Aliyyat Lawal [Github](https://github.com/liyalawal/project) | [Project](https://liyalawal.github.io/project/)
+* Alex Williams [Github](https://github.com/Williams8146/Wise-currency-converter) | [Project](https://williams8146.github.io/Wise-currency-converter/)
 
 ## React.js
 
