@@ -4,7 +4,7 @@
 * Elizabeth Omotoso [Github](https://github.com/lihzgold/myportfolio) | [Portfolio](https://lihzgold.github.io/myportfolio/)
 * Ismaheel Bankole
 * Abiodun Olaniyan [Github](https://github.com/Harbeyzino/myportofolio) | [Project](https://harbeyzino.github.io/myportofolio/)
-* Chijioke Onoh
+* Chijioke Onoh [Github](https://github.com/gitergeek) | [Project](https://gitergeek.github.io/myportfolio/)
 * Kanayochukwu Maduechesi
 * Abdul Muizz Ali
 * Mustapha Mohammed Abdulazeez [Github](https://github.com/Mustazeez06/myPortfolio) | [Project](https://mustazeez06.github.io/myPortfolio/)
