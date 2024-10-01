@@ -1,3 +1,3 @@
 ## HTML/CSS
 ## JavaScript
-* Chijioke Onoh [Github] | (https://chijiokeonoh.github.io/NOSTRA/)
+* Chijioke Onoh [Github](https://github.com/chijiokeonoh) | [Project](https://chijiokeonoh.github.io/NOSTRA/)
