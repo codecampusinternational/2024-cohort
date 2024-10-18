@@ -7,4 +7,4 @@
 * Uche Ibe Success [Github](https://github.com/success-mildred) | [Project](https://success-mildred.github.io/AIKE/)
 
 ## React.js
-* Onyeso Esther [Github](https://github.com/onyeso-esther/my-react-project) | [Project](https://dapixel-ten.vercel.app/)
+* Onyeso Esther [Github](https://github.com/onyeso-esther/my-react-project) | [Project 1](https://dapixel-ten.vercel.app/) || [Github](https://github.com/onyeso-esther/Api-project) | [Project](https://api-project-tau-silk.vercel.app/)
