@@ -6,3 +6,4 @@
 
 ## JavaScript
 * Mustapha Abdulazeez [Github](https://github.com/mustazeez06) | [Portfolio](https://mustazeez06.github.io/javascript-project/)
+* Abiodun Olaniyan [Github](https://github.com/Harbeyzino/javaScript-final) | [Project](https://harbeyzino.github.io/javaScript-final/)
