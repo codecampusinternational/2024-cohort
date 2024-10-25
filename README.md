@@ -5,11 +5,9 @@ This repository contains the projects of students at Code Campus in 2024. It is 
 ## January Cohort
 
 * [HTML/CSS](./01-jan/README.md)
-
-* Joseph Daniel
-* Muhammed Fatima
-* Asemakha Mande
-* Robinson Onomena
+* [JavaScript](./02-feb/README.md)
+* [Reactjs](./03-mar/README.md)
+* [Python/Django](./04-apr)
 
 ## February Cohort
 
