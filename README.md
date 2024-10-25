@@ -7,12 +7,14 @@ This repository contains the projects of students at Code Campus in 2024. It is 
 * [HTML/CSS](./01-jan/README.md)
 * [JavaScript](./02-feb/README.md)
 * [Reactjs](./03-mar/README.md)
-* [Python/Django](./04-apr)
+* [Python/Django](./04-apr/README.md)
 
 ## February Cohort
 
-* Arinze Sam
-* Khairah Afolabi
+* [HTML/CSS](./02-feb/README.md)
+* [JavaScript](./03-mar/README.md)
+* [Reactjs](./04-apr/README.md)
+* [Python/Django](./05-may/README.md)
 
 ## March Cohort
 
