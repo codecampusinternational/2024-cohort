@@ -1,4 +1,4 @@
-## HTML/CSS
+## HTML/CSS (July cohort)
 
 * Chukwuka William [Github](https://github.com/WIILLY12/WIILLY12) | [Project](https://wiilly.vercel.app/)
 * Elizabeth Omotoso [Github](https://github.com/lihzgold/myportfolio) | [Portfolio](https://lihzgold.github.io/myportfolio/)
@@ -12,13 +12,13 @@
 * Toochukwu Ezema [Github](https://github.com/Toochukwu-E/myproject) | [Project](https://toochukwu-e.github.io/myproject/)
 * Samuel Anyakorah
 
-## JavaScript
+## JavaScript (June cohort)
 
 * Aliyyat Lawal [Github](https://github.com/liyalawal/project) | [Project](https://liyalawal.github.io/project/)
 * Alex Williams [Github](https://github.com/Williams8146/Wise-currency-converter) | [Project](https://williams8146.github.io/Wise-currency-converter/)
 
-## React.js
+## React.js (May cohort)
 
 * Gabriel Miracle [Github](https://github.com/Miracle1048/reactjs-project) | [Project 1](https://finance-website-template.vercel.app/) || [Github](https://github.com/Miracle1048/Custom-Search-JSON-API) | [Project 2](https://custom-search-json-api-git-main-gabriel-miracles-projects.vercel.app/)
 
-## Python/Django
+## Python/Django (April cohort)

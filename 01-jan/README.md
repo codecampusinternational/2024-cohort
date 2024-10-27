@@ -1,4 +1,4 @@
-## HTML/CSS (jan-cohort)
+## HTML/CSS (January cohort)
 
 * Joseph Daniel Github | Live Page
 * Muhammed Fatima Github | Live Page
