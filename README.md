@@ -18,52 +18,42 @@ This repository contains the projects of students at Code Campus in 2024. It is 
 
 ## March Cohort
 
-* Rohees Awoyoola
-* Idris Kusoro
+* [HTML/CSS](./03-mar/README.md)
+* [JavaScript](./04-apr/README.md)
+* [Reactjs](./05-may/README.md)
+* [Python/Django](./06-june/README.md)
 
 ## April Cohort
 
-* Obinna Elobi
-* Ugonna Zeal Ogwuegbu
-* Lauretta Daniel
+* [HTML/CSS](./04-apr/README.md)
+* [JavaScript](./05-may/README.md)
+* [Reactjs](./06-jun/README.md)
+* [Python/Django](./07-jul/README.md)
 
 ## May Cohort
 
-* Nweze Ozoemenam
-* Onyeso Esther
-* Gabriel Miracle
+* [HTML/CSS](./05-may/README.md)
+* [JavaScript](./06-june/README.md)
+* [Reactjs](./07-jul/README.md)
+* [Python/Django](./08-aug/README.md)
 
 ## June Cohort
 
-* Mustapha Araoye
-* Aliyyat Lawal
-* Emmanuel Bassey
-* Alex Terver Williams
-* Godwin ​​Ngbe
+* [HTML/CSS](./06-june/README.md)
+* [JavaScript](./07-jul/README.md)
+* [Reactjs](./08-aug/README.md)
+* [Python/Django](./09-sept/README.md)
 
 ## July Cohort
 
-* Elizabeth Omotoso
-* Ismaheel Bankole
-* Abiodun Olaniyan
-* Chijioke Onoh
-* Kanayochukwu Maduechesi
-* Abdul Muizz Ali
-* Mustapha Mohammed Abdulazeez
-* Charles Ojichukwu Aninweze
-* Toochukwu Ezema
-* Chukwuka William
-* Samuel Anyakorah
+* [HTML/CSS](./07-jul/README.md)
+* [JavaScript](./08-aug/README.md)
+* [Reactjs](./09-sept/README.md)
+* Python/Django
 
 ## August Cohort
 
-* Oluchi Uche Ibe
-* Samuel Asiyanbi
-* Abdullahi Abubakar
-* Oluwasunmisola Omolehin
-* Precious Oviemuno Amawhe
-* Chinyere Akunedozi
-* Elvis Ifechukwu
-* Ismaheel Bankole
-* Nathan Saaku
-* Ezechukwu Kamsiyochukwu Jesse
+* [HTML/CSS](./08-aug/README.md)
+* [JavaScript](./09-sept/README.md)
+* Reactjs
+* Python/Django
