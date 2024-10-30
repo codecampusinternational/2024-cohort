@@ -9,6 +9,6 @@
 * Samuel Asiyanbi [Github](https://github.com/Osa277/https-github.com-Osa277-foottwears) | [Project](https://osa277.github.io/https-github.com-Osa277-foottwears/project1.html)
 
 ## React.js (July cohort)
-* Onyeso Esther (from April) [Github](https://github.com/onyeso-esther/my-react-project) | [Project 1](https://dapixel-ten.vercel.app/) || [Github](https://github.com/onyeso-esther/Api-project) | [Project 2](https://api-project-tau-silk.vercel.app/)
+* Onyeso Esther (from May cohort) [Github](https://github.com/onyeso-esther/my-react-project) | [Project 1](https://dapixel-ten.vercel.app/) || [Github](https://github.com/onyeso-esther/Api-project) | [Project 2](https://api-project-tau-silk.vercel.app/)
 
 ## Python/Django (June cohort)
