@@ -1,6 +1,6 @@
 # Main Repository of Projects
 
-This repository contains the projects of students at Code Campus in 2024. It is arranged per course, per cohort. Links to both the live project and the github repository are added wherever possible.
+This repository contains the projects of students at Code Campus International, Abuja in 2024. It is arranged per cohort and according to courses. Links to both the live projects and Github repositories are added wherever possible.
 
 ## January Cohort
 
@@ -49,11 +49,19 @@ This repository contains the projects of students at Code Campus in 2024. It is 
 * [HTML/CSS](./07-jul/README.md)
 * [JavaScript](./08-aug/README.md)
 * [Reactjs](./09-sept/README.md)
-* Python/Django
+* [Python/Django](./10-oct/README.md)
 
 ## August Cohort
 
 * [HTML/CSS](./08-aug/README.md)
 * [JavaScript](./09-sept/README.md)
-* Reactjs
-* Python/Django
+* [Reactjs](./10-oct/README.md)
+
+## September Cohort
+
+* [HTML/CSS](./09-sept/README.md)
+* [JavaScript](./10-oct/README.md)
+
+## October Cohort
+
+* [HTML/CSS](./10-oct/README.md)
