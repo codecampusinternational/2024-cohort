@@ -56,6 +56,7 @@ This repository contains the projects of students at Code Campus International, 
 * [HTML/CSS](./08-aug/README.md)
 * [JavaScript](./09-sept/README.md)
 * [Reactjs](./10-oct/README.md)
+* [Python/Django](./11-nov/README.md)
 
 ## September Cohort
 
