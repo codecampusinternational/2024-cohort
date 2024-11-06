@@ -6,7 +6,7 @@
 * Samuel Asiyanbi [Github](https://github.com/osa277/portfolio) | [Project](https://osa277.github.io/portfolio/)
 
 ## JavaScript (July cohort)
-* Mustapha Abdulazeez [Github](https://github.com/mustazeez06) | [Portfolio](https://mustazeez06.github.io/javascript-project/)
+* Mustapha Abdulazeez [Github](https://github.com/mustazeez06) | [Project](https://mustazeez06.github.io/javascript-project/)
 * Abiodun Olaniyan [Github](https://github.com/Harbeyzino/javaScript-final) | [Project](https://harbeyzino.github.io/javaScript-final/)
 
 ## Reactjs (June cohort)
